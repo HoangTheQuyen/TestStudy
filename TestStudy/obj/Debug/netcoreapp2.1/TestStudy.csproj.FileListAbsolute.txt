@@ -1,0 +1,14 @@
+C:\IT\QLDAPM\TestStudy\TestStudy\TestStudy\bin\Debug\netcoreapp2.1\TestStudy.deps.json
+C:\IT\QLDAPM\TestStudy\TestStudy\TestStudy\bin\Debug\netcoreapp2.1\TestStudy.runtimeconfig.json
+C:\IT\QLDAPM\TestStudy\TestStudy\TestStudy\bin\Debug\netcoreapp2.1\TestStudy.runtimeconfig.dev.json
+C:\IT\QLDAPM\TestStudy\TestStudy\TestStudy\bin\Debug\netcoreapp2.1\TestStudy.dll
+C:\IT\QLDAPM\TestStudy\TestStudy\TestStudy\bin\Debug\netcoreapp2.1\TestStudy.pdb
+C:\IT\QLDAPM\TestStudy\TestStudy\TestStudy\obj\Debug\netcoreapp2.1\TestStudy.csprojAssemblyReference.cache
+C:\IT\QLDAPM\TestStudy\TestStudy\TestStudy\obj\Debug\netcoreapp2.1\TestStudy.csproj.CoreCompileInputs.cache
+C:\IT\QLDAPM\TestStudy\TestStudy\TestStudy\obj\Debug\netcoreapp2.1\TestStudy.RazorAssemblyInfo.cache
+C:\IT\QLDAPM\TestStudy\TestStudy\TestStudy\obj\Debug\netcoreapp2.1\TestStudy.RazorAssemblyInfo.cs
+C:\IT\QLDAPM\TestStudy\TestStudy\TestStudy\obj\Debug\netcoreapp2.1\TestStudy.AssemblyInfoInputs.cache
+C:\IT\QLDAPM\TestStudy\TestStudy\TestStudy\obj\Debug\netcoreapp2.1\TestStudy.AssemblyInfo.cs
+C:\IT\QLDAPM\TestStudy\TestStudy\TestStudy\obj\Debug\netcoreapp2.1\TestStudy.RazorTargetAssemblyInfo.cache
+C:\IT\QLDAPM\TestStudy\TestStudy\TestStudy\obj\Debug\netcoreapp2.1\TestStudy.dll
+C:\IT\QLDAPM\TestStudy\TestStudy\TestStudy\obj\Debug\netcoreapp2.1\TestStudy.pdb
