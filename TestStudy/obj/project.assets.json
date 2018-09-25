@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\IT\\QLDAPM\\TestStudy\\TestStudy\\TestStudy\\TestStudy.csproj",
+      "projectUniqueName": "C:\\IT\\QLDAPM\\TestStudy\\TestStudy\\TestStudy.csproj",
       "projectName": "TestStudy",
-      "projectPath": "C:\\IT\\QLDAPM\\TestStudy\\TestStudy\\TestStudy\\TestStudy.csproj",
+      "projectPath": "C:\\IT\\QLDAPM\\TestStudy\\TestStudy\\TestStudy.csproj",
       "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-      "outputPath": "C:\\IT\\QLDAPM\\TestStudy\\TestStudy\\TestStudy\\obj\\",
+      "outputPath": "C:\\IT\\QLDAPM\\TestStudy\\TestStudy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
